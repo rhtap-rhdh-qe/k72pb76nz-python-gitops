@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: k72pb76nz-python-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/k72pb76nz-python
